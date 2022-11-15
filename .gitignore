@@ -20,3 +20,5 @@ ipython_config.py
 
 /large-datasets/
 docker-compose.yml
+
+/unknown/
