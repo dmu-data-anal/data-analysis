@@ -70,6 +70,9 @@ __과거에 서울메트로,도시철도공사 등 최근(2017) 부터 서울교
    거꾸로 유동인구수가 많은 곳의 코로나 확진을 분석 1개
    이렇게 총 2개를 분석하는 거
 
+4. 주피터 노트북 파일 정리좀
+5. 
+
 ![gif](https://github.com/dmu-data-anal/data-analysis/blob/main/results/result.gif)
 
 ```md
