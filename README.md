@@ -71,7 +71,7 @@ __과거에 서울메트로,도시철도공사 등 최근(2017) 부터 서울교
    이렇게 총 2개를 분석하는 거
 
 4. 주피터 노트북 파일 정리좀
-5. 
+5. 노드 연결선 weight 주기
 
 ![gif](https://github.com/dmu-data-anal/data-analysis/blob/main/results/result.gif)
 
