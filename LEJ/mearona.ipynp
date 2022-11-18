@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import csv
 
+#padas 사용하기
+
 f=open('서울시 코로나19 자치구별 확진자 발생동향.csv')
 data=csv.reader(f)
 head=next(data)
