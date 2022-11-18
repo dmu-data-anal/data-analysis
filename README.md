@@ -89,8 +89,9 @@ https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%8B%9C+%EC%BD%94%EB%A1%9C%E
    거꾸로 유동인구수가 많은 곳의 코로나 확진을 분석 1개
    이렇게 총 2개를 분석하는 거
 
-4. 주피터 노트북 파일 정리좀
-5. 노드 연결선 weight 주기
+~~4. 주피터 노트북 파일 정리좀~~
+
+4. 노드 연결선 weight 주기
 
 ![gif](https://github.com/dmu-data-anal/data-analysis/blob/main/results/result.gif)
 
