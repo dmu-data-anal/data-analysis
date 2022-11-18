@@ -1,6 +1,8 @@
 # data-analysis
 데이터분석용
 
+https://colab.research.google.com/drive/16tjStJV9Na9wj7Iz7sumLfCsHVHB72Jm?usp=sharing
+
 ## 데이터셋
 
 ### 안더럽게 데이터 주물럭주물럭한거
