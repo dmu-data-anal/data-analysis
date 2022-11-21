@@ -21,5 +21,3 @@ ipython_config.py
 */large-datasets/*
 # TODO: 추후 large-datasets 위치 정하자
 docker-compose.yml
-
-/unknown/
