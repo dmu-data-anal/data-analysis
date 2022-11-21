@@ -18,7 +18,7 @@ ipython_config.py
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
-/박종관/large-datasets/
+*/large-datasets/*
 # TODO: 추후 large-datasets 위치 정하자
 docker-compose.yml
 
