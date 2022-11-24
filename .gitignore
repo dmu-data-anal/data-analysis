@@ -24,3 +24,4 @@ ipython_config.py
 # TODO: 추후 large-datasets 위치 정하자
 docker-compose.yml
 /magic/
+/.박종관/geojson/Korea_District/
