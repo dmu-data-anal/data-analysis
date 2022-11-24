@@ -14,9 +14,9 @@ https://colab.research.google.com/drive/16tjStJV9Na9wj7Iz7sumLfCsHVHB72Jm?usp=sh
    거꾸로 유동인구수가 많은 곳의 코로나 확진을 분석 1개
    이렇게 총 2개를 분석하는 거
 
-~~4. 주피터 노트북 파일 정리좀~~
+4. 주피터 노트북 파일 정리좀
 
-4. 노드 연결선 weight 주기
+_4. 노드 연결선 weight 주기_
 
 ~~5. 응애 정리했는데 마무리 작업 해줘~~
 
