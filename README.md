@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/16tjStJV9Na9wj7Iz7sumLfCsHVHB72Jm?usp=sh
 ### TODO:   
 ~~1. 행정동 코드 변환된 이름 만들기~~
 
-2. 지도?
+~~2. 지도?~~
 
 ~~3. 유동인구가 많이 몰린 곳을 하나만 뽑아서 코로나 확진 수랑 관계 있는가를 보자!~~
 
@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/16tjStJV9Na9wj7Iz7sumLfCsHVHB72Jm?usp=sh
 
 4. 노드 연결선 weight 주기
 
-5. 응애 정리했는데 마무리 작업 해줘
+~~5. 응애 정리했는데 마무리 작업 해줘~~
 
 ![gif](https://github.com/dmu-data-anal/data-analysis/blob/main/results/result.gif)
 
